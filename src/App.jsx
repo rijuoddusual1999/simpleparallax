@@ -29,8 +29,8 @@ function App() {
           speed={0.5}
           onClick={() => ref.current.scrollTo(3)}
         >
-           <h1 style={{textAlign: 'center'}}><p>Where do bad folks go when they die?</p> 
- <p>They don't go to Heaven where the angels fly</p></h1>
+           <h1 style={{textAlign: 'center'}}><p>This is colossaly retarded</p> 
+ <p>I can't even say anything</p></h1>
         </ParallaxLayer>
 
         <ParallaxLayer
@@ -38,8 +38,8 @@ function App() {
           speed={0.5}
           onClick={() => ref.current.scrollTo(0)}
         >
-          <h1 style={{textAlign: 'center'}}><p>They go to the lake of fire and fry</p> 
- <p>See 'em again 'til the fourth of July!</p></h1>
+          <h1 style={{textAlign: 'center'}}><p>All apologies for visiting the site</p> 
+          </h1>
         </ParallaxLayer>
 
         
